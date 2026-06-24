@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Math
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
