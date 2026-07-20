@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0198-house-robber) |
 | [1260-shift-2d-grid](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1260-shift-2d-grid) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
@@ -164,5 +166,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
