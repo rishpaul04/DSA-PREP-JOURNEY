@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0198-house-robber) |
 | [1301-number-of-paths-with-max-score](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0198-house-robber) |
 | [1260-shift-2d-grid](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
@@ -148,13 +150,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1260-shift-2d-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
