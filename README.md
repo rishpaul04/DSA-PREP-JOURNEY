@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3620-network-recovery-pathways](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
