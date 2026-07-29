@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -46,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1189-maximum-number-of-balloons) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
 |  |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
