@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0198-house-robber) |
+| [0877-stone-game](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0198-house-robber) |
+| [0877-stone-game](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
