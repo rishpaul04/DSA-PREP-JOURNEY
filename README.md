@@ -45,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0724-find-pivot-index) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0198-house-robber) |
+| [0560-subarray-sum-equals-k](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1260-shift-2d-grid) |
