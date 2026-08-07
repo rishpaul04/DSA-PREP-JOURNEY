@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1189-maximum-number-of-balloons) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0198-house-robber) |
+| [0525-contiguous-array](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0877-stone-game) |
