@@ -237,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
