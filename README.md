@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1140-stone-game-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1331-rank-transform-of-an-array) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1140-stone-game-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -255,4 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0100-same-tree) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
