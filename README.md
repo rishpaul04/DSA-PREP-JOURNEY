@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0877-stone-game) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0062-unique-paths) |
 | [0877-stone-game](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rishpaul04/DSA-PREP-JOURNEY/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
 |  |
