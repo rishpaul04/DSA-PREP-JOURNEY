@@ -8,8 +8,8 @@ class Solution:
                 if(obstacleGrid[i][j]==1):
                     dp[i][j]=0
                 else:
-                    if i>0:
-                        dp[i][j]+=dp[i-1][j]
-                    if j>0:
-                        dp[i][j]+=dp[i][j-1]
+                    if i>0 or j>0:
+                        dp[i][j]+=dp[i-1][j]+dp[i][j-1]
+                   
+                        
         return dp[m-1][n-1]
